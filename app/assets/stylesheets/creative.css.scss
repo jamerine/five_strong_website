@@ -631,6 +631,7 @@ footer ul.quicklinks {
   margin-bottom: 0;
   line-height: 40px;
   text-transform: none;
+  color: $primary_3;
 }
 ul.social-buttons {
   margin-bottom: 0;
@@ -653,7 +654,7 @@ ul.social-buttons li a:hover,
 ul.social-buttons li a:focus,
 ul.social-buttons li a:active {
   background-color: $primary_2;
-  color: $primary_2;
+  color: $primary_3;
 }
 .btn:focus,
 .btn:active,
@@ -663,7 +664,7 @@ ul.social-buttons li a:active {
 }
 
 footer a {
-  color: $primary_1;
+  color: $primary_3;
   -webkit-transition: all 0.3s;
   -moz-transition: all 0.3s;
   transition: all 0.3s;
@@ -672,11 +673,11 @@ footer a {
 footer a:hover,
 footer a:focus,
 footer a:active {
-  color: $primary_1;
+  color: $primary_3;
 }
 
 footer i:hover,
 footer i:focus,
 footer i:active {
-  color: $primary_1;
+  color: $primary_3;
 }
