@@ -96,6 +96,30 @@ p {
   margin-top: 50px;
 }
 
+.portfolio {
+    background-color: $primary_3;
+    color: $primary_1;
+}
+
+
+.portfolio p {
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 24px;
+  line-height: 1.5em;
+
+}
+
+.portfolio h2 {
+  text-transform: uppercase;
+  font-size: 36px;
+  margin-bottom: 50px;
+}
+
+.portfolio .btn-bg-primary {
+  margin-top: 50px;
+}
+
 .bg-dark {
     background-color: $primary_2;
 }
